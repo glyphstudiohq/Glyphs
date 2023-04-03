@@ -127,7 +127,7 @@ button {
 
 h1 span,
 h4 span {
-	background-image: url('/assets/product-bg.png');
+	background-image: url('assets/product-bg.png');
 	background-position: center bottom;
 	background-repeat: no-repeat;
 }
@@ -459,6 +459,10 @@ nav,
 
 	color: var(--clr-neutral-100);
 }
+
+.footer h3 {
+        text-transform: capitalize;
+} 
 
 .footer img {
 	width: 200px;
