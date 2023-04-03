@@ -460,6 +460,10 @@ nav,
 	color: var(--clr-neutral-100);
 }
 
+.footer h3 {
+        text-transform: capitalize;
+} 
+
 .footer img {
 	width: 200px;
 }
